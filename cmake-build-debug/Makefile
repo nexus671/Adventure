@@ -122,6 +122,1653 @@ FinalProject/fast:
 	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/build
 .PHONY : FinalProject/fast
 
+Abilities/Ability.obj: Abilities/Ability.cpp.obj
+
+.PHONY : Abilities/Ability.obj
+
+# target to build an object file
+Abilities/Ability.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj
+.PHONY : Abilities/Ability.cpp.obj
+
+Abilities/Ability.i: Abilities/Ability.cpp.i
+
+.PHONY : Abilities/Ability.i
+
+# target to preprocess a source file
+Abilities/Ability.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.i
+.PHONY : Abilities/Ability.cpp.i
+
+Abilities/Ability.s: Abilities/Ability.cpp.s
+
+.PHONY : Abilities/Ability.s
+
+# target to generate assembly for a file
+Abilities/Ability.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.s
+.PHONY : Abilities/Ability.cpp.s
+
+Abilities/ActiveAbility.obj: Abilities/ActiveAbility.cpp.obj
+
+.PHONY : Abilities/ActiveAbility.obj
+
+# target to build an object file
+Abilities/ActiveAbility.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj
+.PHONY : Abilities/ActiveAbility.cpp.obj
+
+Abilities/ActiveAbility.i: Abilities/ActiveAbility.cpp.i
+
+.PHONY : Abilities/ActiveAbility.i
+
+# target to preprocess a source file
+Abilities/ActiveAbility.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.i
+.PHONY : Abilities/ActiveAbility.cpp.i
+
+Abilities/ActiveAbility.s: Abilities/ActiveAbility.cpp.s
+
+.PHONY : Abilities/ActiveAbility.s
+
+# target to generate assembly for a file
+Abilities/ActiveAbility.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.s
+.PHONY : Abilities/ActiveAbility.cpp.s
+
+Abilities/PassiveAbility.obj: Abilities/PassiveAbility.cpp.obj
+
+.PHONY : Abilities/PassiveAbility.obj
+
+# target to build an object file
+Abilities/PassiveAbility.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj
+.PHONY : Abilities/PassiveAbility.cpp.obj
+
+Abilities/PassiveAbility.i: Abilities/PassiveAbility.cpp.i
+
+.PHONY : Abilities/PassiveAbility.i
+
+# target to preprocess a source file
+Abilities/PassiveAbility.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.i
+.PHONY : Abilities/PassiveAbility.cpp.i
+
+Abilities/PassiveAbility.s: Abilities/PassiveAbility.cpp.s
+
+.PHONY : Abilities/PassiveAbility.s
+
+# target to generate assembly for a file
+Abilities/PassiveAbility.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.s
+.PHONY : Abilities/PassiveAbility.cpp.s
+
+Battle/Battle.obj: Battle/Battle.cpp.obj
+
+.PHONY : Battle/Battle.obj
+
+# target to build an object file
+Battle/Battle.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj
+.PHONY : Battle/Battle.cpp.obj
+
+Battle/Battle.i: Battle/Battle.cpp.i
+
+.PHONY : Battle/Battle.i
+
+# target to preprocess a source file
+Battle/Battle.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Battle/Battle.cpp.i
+.PHONY : Battle/Battle.cpp.i
+
+Battle/Battle.s: Battle/Battle.cpp.s
+
+.PHONY : Battle/Battle.s
+
+# target to generate assembly for a file
+Battle/Battle.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Battle/Battle.cpp.s
+.PHONY : Battle/Battle.cpp.s
+
+Battle/TempUI.obj: Battle/TempUI.cpp.obj
+
+.PHONY : Battle/TempUI.obj
+
+# target to build an object file
+Battle/TempUI.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj
+.PHONY : Battle/TempUI.cpp.obj
+
+Battle/TempUI.i: Battle/TempUI.cpp.i
+
+.PHONY : Battle/TempUI.i
+
+# target to preprocess a source file
+Battle/TempUI.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.i
+.PHONY : Battle/TempUI.cpp.i
+
+Battle/TempUI.s: Battle/TempUI.cpp.s
+
+.PHONY : Battle/TempUI.s
+
+# target to generate assembly for a file
+Battle/TempUI.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.s
+.PHONY : Battle/TempUI.cpp.s
+
+Effects/Blind.obj: Effects/Blind.cpp.obj
+
+.PHONY : Effects/Blind.obj
+
+# target to build an object file
+Effects/Blind.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj
+.PHONY : Effects/Blind.cpp.obj
+
+Effects/Blind.i: Effects/Blind.cpp.i
+
+.PHONY : Effects/Blind.i
+
+# target to preprocess a source file
+Effects/Blind.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Blind.cpp.i
+.PHONY : Effects/Blind.cpp.i
+
+Effects/Blind.s: Effects/Blind.cpp.s
+
+.PHONY : Effects/Blind.s
+
+# target to generate assembly for a file
+Effects/Blind.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Blind.cpp.s
+.PHONY : Effects/Blind.cpp.s
+
+Effects/Buff.obj: Effects/Buff.cpp.obj
+
+.PHONY : Effects/Buff.obj
+
+# target to build an object file
+Effects/Buff.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj
+.PHONY : Effects/Buff.cpp.obj
+
+Effects/Buff.i: Effects/Buff.cpp.i
+
+.PHONY : Effects/Buff.i
+
+# target to preprocess a source file
+Effects/Buff.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Buff.cpp.i
+.PHONY : Effects/Buff.cpp.i
+
+Effects/Buff.s: Effects/Buff.cpp.s
+
+.PHONY : Effects/Buff.s
+
+# target to generate assembly for a file
+Effects/Buff.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Buff.cpp.s
+.PHONY : Effects/Buff.cpp.s
+
+Effects/Creation.obj: Effects/Creation.cpp.obj
+
+.PHONY : Effects/Creation.obj
+
+# target to build an object file
+Effects/Creation.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj
+.PHONY : Effects/Creation.cpp.obj
+
+Effects/Creation.i: Effects/Creation.cpp.i
+
+.PHONY : Effects/Creation.i
+
+# target to preprocess a source file
+Effects/Creation.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Creation.cpp.i
+.PHONY : Effects/Creation.cpp.i
+
+Effects/Creation.s: Effects/Creation.cpp.s
+
+.PHONY : Effects/Creation.s
+
+# target to generate assembly for a file
+Effects/Creation.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Creation.cpp.s
+.PHONY : Effects/Creation.cpp.s
+
+Effects/Damage.obj: Effects/Damage.cpp.obj
+
+.PHONY : Effects/Damage.obj
+
+# target to build an object file
+Effects/Damage.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj
+.PHONY : Effects/Damage.cpp.obj
+
+Effects/Damage.i: Effects/Damage.cpp.i
+
+.PHONY : Effects/Damage.i
+
+# target to preprocess a source file
+Effects/Damage.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Damage.cpp.i
+.PHONY : Effects/Damage.cpp.i
+
+Effects/Damage.s: Effects/Damage.cpp.s
+
+.PHONY : Effects/Damage.s
+
+# target to generate assembly for a file
+Effects/Damage.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Damage.cpp.s
+.PHONY : Effects/Damage.cpp.s
+
+Effects/DamageOvertime.obj: Effects/DamageOvertime.cpp.obj
+
+.PHONY : Effects/DamageOvertime.obj
+
+# target to build an object file
+Effects/DamageOvertime.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj
+.PHONY : Effects/DamageOvertime.cpp.obj
+
+Effects/DamageOvertime.i: Effects/DamageOvertime.cpp.i
+
+.PHONY : Effects/DamageOvertime.i
+
+# target to preprocess a source file
+Effects/DamageOvertime.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.i
+.PHONY : Effects/DamageOvertime.cpp.i
+
+Effects/DamageOvertime.s: Effects/DamageOvertime.cpp.s
+
+.PHONY : Effects/DamageOvertime.s
+
+# target to generate assembly for a file
+Effects/DamageOvertime.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.s
+.PHONY : Effects/DamageOvertime.cpp.s
+
+Effects/Heal.obj: Effects/Heal.cpp.obj
+
+.PHONY : Effects/Heal.obj
+
+# target to build an object file
+Effects/Heal.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj
+.PHONY : Effects/Heal.cpp.obj
+
+Effects/Heal.i: Effects/Heal.cpp.i
+
+.PHONY : Effects/Heal.i
+
+# target to preprocess a source file
+Effects/Heal.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Heal.cpp.i
+.PHONY : Effects/Heal.cpp.i
+
+Effects/Heal.s: Effects/Heal.cpp.s
+
+.PHONY : Effects/Heal.s
+
+# target to generate assembly for a file
+Effects/Heal.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Heal.cpp.s
+.PHONY : Effects/Heal.cpp.s
+
+Effects/HealOvertime.obj: Effects/HealOvertime.cpp.obj
+
+.PHONY : Effects/HealOvertime.obj
+
+# target to build an object file
+Effects/HealOvertime.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj
+.PHONY : Effects/HealOvertime.cpp.obj
+
+Effects/HealOvertime.i: Effects/HealOvertime.cpp.i
+
+.PHONY : Effects/HealOvertime.i
+
+# target to preprocess a source file
+Effects/HealOvertime.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.i
+.PHONY : Effects/HealOvertime.cpp.i
+
+Effects/HealOvertime.s: Effects/HealOvertime.cpp.s
+
+.PHONY : Effects/HealOvertime.s
+
+# target to generate assembly for a file
+Effects/HealOvertime.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.s
+.PHONY : Effects/HealOvertime.cpp.s
+
+Effects/Root.obj: Effects/Root.cpp.obj
+
+.PHONY : Effects/Root.obj
+
+# target to build an object file
+Effects/Root.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj
+.PHONY : Effects/Root.cpp.obj
+
+Effects/Root.i: Effects/Root.cpp.i
+
+.PHONY : Effects/Root.i
+
+# target to preprocess a source file
+Effects/Root.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Root.cpp.i
+.PHONY : Effects/Root.cpp.i
+
+Effects/Root.s: Effects/Root.cpp.s
+
+.PHONY : Effects/Root.s
+
+# target to generate assembly for a file
+Effects/Root.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Root.cpp.s
+.PHONY : Effects/Root.cpp.s
+
+Effects/Silence.obj: Effects/Silence.cpp.obj
+
+.PHONY : Effects/Silence.obj
+
+# target to build an object file
+Effects/Silence.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj
+.PHONY : Effects/Silence.cpp.obj
+
+Effects/Silence.i: Effects/Silence.cpp.i
+
+.PHONY : Effects/Silence.i
+
+# target to preprocess a source file
+Effects/Silence.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Silence.cpp.i
+.PHONY : Effects/Silence.cpp.i
+
+Effects/Silence.s: Effects/Silence.cpp.s
+
+.PHONY : Effects/Silence.s
+
+# target to generate assembly for a file
+Effects/Silence.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Silence.cpp.s
+.PHONY : Effects/Silence.cpp.s
+
+Effects/Slow.obj: Effects/Slow.cpp.obj
+
+.PHONY : Effects/Slow.obj
+
+# target to build an object file
+Effects/Slow.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj
+.PHONY : Effects/Slow.cpp.obj
+
+Effects/Slow.i: Effects/Slow.cpp.i
+
+.PHONY : Effects/Slow.i
+
+# target to preprocess a source file
+Effects/Slow.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Slow.cpp.i
+.PHONY : Effects/Slow.cpp.i
+
+Effects/Slow.s: Effects/Slow.cpp.s
+
+.PHONY : Effects/Slow.s
+
+# target to generate assembly for a file
+Effects/Slow.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Slow.cpp.s
+.PHONY : Effects/Slow.cpp.s
+
+Effects/Stun.obj: Effects/Stun.cpp.obj
+
+.PHONY : Effects/Stun.obj
+
+# target to build an object file
+Effects/Stun.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj
+.PHONY : Effects/Stun.cpp.obj
+
+Effects/Stun.i: Effects/Stun.cpp.i
+
+.PHONY : Effects/Stun.i
+
+# target to preprocess a source file
+Effects/Stun.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Stun.cpp.i
+.PHONY : Effects/Stun.cpp.i
+
+Effects/Stun.s: Effects/Stun.cpp.s
+
+.PHONY : Effects/Stun.s
+
+# target to generate assembly for a file
+Effects/Stun.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Stun.cpp.s
+.PHONY : Effects/Stun.cpp.s
+
+Effects/Taunt.obj: Effects/Taunt.cpp.obj
+
+.PHONY : Effects/Taunt.obj
+
+# target to build an object file
+Effects/Taunt.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj
+.PHONY : Effects/Taunt.cpp.obj
+
+Effects/Taunt.i: Effects/Taunt.cpp.i
+
+.PHONY : Effects/Taunt.i
+
+# target to preprocess a source file
+Effects/Taunt.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.i
+.PHONY : Effects/Taunt.cpp.i
+
+Effects/Taunt.s: Effects/Taunt.cpp.s
+
+.PHONY : Effects/Taunt.s
+
+# target to generate assembly for a file
+Effects/Taunt.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.s
+.PHONY : Effects/Taunt.cpp.s
+
+Entities/Entity.obj: Entities/Entity.cpp.obj
+
+.PHONY : Entities/Entity.obj
+
+# target to build an object file
+Entities/Entity.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj
+.PHONY : Entities/Entity.cpp.obj
+
+Entities/Entity.i: Entities/Entity.cpp.i
+
+.PHONY : Entities/Entity.i
+
+# target to preprocess a source file
+Entities/Entity.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/Entity.cpp.i
+.PHONY : Entities/Entity.cpp.i
+
+Entities/Entity.s: Entities/Entity.cpp.s
+
+.PHONY : Entities/Entity.s
+
+# target to generate assembly for a file
+Entities/Entity.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/Entity.cpp.s
+.PHONY : Entities/Entity.cpp.s
+
+Entities/LivingEntity.obj: Entities/LivingEntity.cpp.obj
+
+.PHONY : Entities/LivingEntity.obj
+
+# target to build an object file
+Entities/LivingEntity.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj
+.PHONY : Entities/LivingEntity.cpp.obj
+
+Entities/LivingEntity.i: Entities/LivingEntity.cpp.i
+
+.PHONY : Entities/LivingEntity.i
+
+# target to preprocess a source file
+Entities/LivingEntity.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.i
+.PHONY : Entities/LivingEntity.cpp.i
+
+Entities/LivingEntity.s: Entities/LivingEntity.cpp.s
+
+.PHONY : Entities/LivingEntity.s
+
+# target to generate assembly for a file
+Entities/LivingEntity.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.s
+.PHONY : Entities/LivingEntity.cpp.s
+
+Entities/SubTypes/Monster.obj: Entities/SubTypes/Monster.cpp.obj
+
+.PHONY : Entities/SubTypes/Monster.obj
+
+# target to build an object file
+Entities/SubTypes/Monster.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj
+.PHONY : Entities/SubTypes/Monster.cpp.obj
+
+Entities/SubTypes/Monster.i: Entities/SubTypes/Monster.cpp.i
+
+.PHONY : Entities/SubTypes/Monster.i
+
+# target to preprocess a source file
+Entities/SubTypes/Monster.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.i
+.PHONY : Entities/SubTypes/Monster.cpp.i
+
+Entities/SubTypes/Monster.s: Entities/SubTypes/Monster.cpp.s
+
+.PHONY : Entities/SubTypes/Monster.s
+
+# target to generate assembly for a file
+Entities/SubTypes/Monster.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.s
+.PHONY : Entities/SubTypes/Monster.cpp.s
+
+Entities/SubTypes/Player.obj: Entities/SubTypes/Player.cpp.obj
+
+.PHONY : Entities/SubTypes/Player.obj
+
+# target to build an object file
+Entities/SubTypes/Player.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj
+.PHONY : Entities/SubTypes/Player.cpp.obj
+
+Entities/SubTypes/Player.i: Entities/SubTypes/Player.cpp.i
+
+.PHONY : Entities/SubTypes/Player.i
+
+# target to preprocess a source file
+Entities/SubTypes/Player.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.i
+.PHONY : Entities/SubTypes/Player.cpp.i
+
+Entities/SubTypes/Player.s: Entities/SubTypes/Player.cpp.s
+
+.PHONY : Entities/SubTypes/Player.s
+
+# target to generate assembly for a file
+Entities/SubTypes/Player.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.s
+.PHONY : Entities/SubTypes/Player.cpp.s
+
+Enums/AbilityRange.obj: Enums/AbilityRange.cpp.obj
+
+.PHONY : Enums/AbilityRange.obj
+
+# target to build an object file
+Enums/AbilityRange.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj
+.PHONY : Enums/AbilityRange.cpp.obj
+
+Enums/AbilityRange.i: Enums/AbilityRange.cpp.i
+
+.PHONY : Enums/AbilityRange.i
+
+# target to preprocess a source file
+Enums/AbilityRange.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.i
+.PHONY : Enums/AbilityRange.cpp.i
+
+Enums/AbilityRange.s: Enums/AbilityRange.cpp.s
+
+.PHONY : Enums/AbilityRange.s
+
+# target to generate assembly for a file
+Enums/AbilityRange.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.s
+.PHONY : Enums/AbilityRange.cpp.s
+
+Enums/AbilityType.obj: Enums/AbilityType.cpp.obj
+
+.PHONY : Enums/AbilityType.obj
+
+# target to build an object file
+Enums/AbilityType.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj
+.PHONY : Enums/AbilityType.cpp.obj
+
+Enums/AbilityType.i: Enums/AbilityType.cpp.i
+
+.PHONY : Enums/AbilityType.i
+
+# target to preprocess a source file
+Enums/AbilityType.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.i
+.PHONY : Enums/AbilityType.cpp.i
+
+Enums/AbilityType.s: Enums/AbilityType.cpp.s
+
+.PHONY : Enums/AbilityType.s
+
+# target to generate assembly for a file
+Enums/AbilityType.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.s
+.PHONY : Enums/AbilityType.cpp.s
+
+Enums/Affixes/ArmorSuffix.obj: Enums/Affixes/ArmorSuffix.cpp.obj
+
+.PHONY : Enums/Affixes/ArmorSuffix.obj
+
+# target to build an object file
+Enums/Affixes/ArmorSuffix.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj
+.PHONY : Enums/Affixes/ArmorSuffix.cpp.obj
+
+Enums/Affixes/ArmorSuffix.i: Enums/Affixes/ArmorSuffix.cpp.i
+
+.PHONY : Enums/Affixes/ArmorSuffix.i
+
+# target to preprocess a source file
+Enums/Affixes/ArmorSuffix.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.i
+.PHONY : Enums/Affixes/ArmorSuffix.cpp.i
+
+Enums/Affixes/ArmorSuffix.s: Enums/Affixes/ArmorSuffix.cpp.s
+
+.PHONY : Enums/Affixes/ArmorSuffix.s
+
+# target to generate assembly for a file
+Enums/Affixes/ArmorSuffix.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.s
+.PHONY : Enums/Affixes/ArmorSuffix.cpp.s
+
+Enums/Affixes/JewelryGem.obj: Enums/Affixes/JewelryGem.cpp.obj
+
+.PHONY : Enums/Affixes/JewelryGem.obj
+
+# target to build an object file
+Enums/Affixes/JewelryGem.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj
+.PHONY : Enums/Affixes/JewelryGem.cpp.obj
+
+Enums/Affixes/JewelryGem.i: Enums/Affixes/JewelryGem.cpp.i
+
+.PHONY : Enums/Affixes/JewelryGem.i
+
+# target to preprocess a source file
+Enums/Affixes/JewelryGem.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.i
+.PHONY : Enums/Affixes/JewelryGem.cpp.i
+
+Enums/Affixes/JewelryGem.s: Enums/Affixes/JewelryGem.cpp.s
+
+.PHONY : Enums/Affixes/JewelryGem.s
+
+# target to generate assembly for a file
+Enums/Affixes/JewelryGem.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.s
+.PHONY : Enums/Affixes/JewelryGem.cpp.s
+
+Enums/Affixes/JewelryMetal.obj: Enums/Affixes/JewelryMetal.cpp.obj
+
+.PHONY : Enums/Affixes/JewelryMetal.obj
+
+# target to build an object file
+Enums/Affixes/JewelryMetal.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj
+.PHONY : Enums/Affixes/JewelryMetal.cpp.obj
+
+Enums/Affixes/JewelryMetal.i: Enums/Affixes/JewelryMetal.cpp.i
+
+.PHONY : Enums/Affixes/JewelryMetal.i
+
+# target to preprocess a source file
+Enums/Affixes/JewelryMetal.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.i
+.PHONY : Enums/Affixes/JewelryMetal.cpp.i
+
+Enums/Affixes/JewelryMetal.s: Enums/Affixes/JewelryMetal.cpp.s
+
+.PHONY : Enums/Affixes/JewelryMetal.s
+
+# target to generate assembly for a file
+Enums/Affixes/JewelryMetal.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.s
+.PHONY : Enums/Affixes/JewelryMetal.cpp.s
+
+Enums/Affixes/Material.obj: Enums/Affixes/Material.cpp.obj
+
+.PHONY : Enums/Affixes/Material.obj
+
+# target to build an object file
+Enums/Affixes/Material.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj
+.PHONY : Enums/Affixes/Material.cpp.obj
+
+Enums/Affixes/Material.i: Enums/Affixes/Material.cpp.i
+
+.PHONY : Enums/Affixes/Material.i
+
+# target to preprocess a source file
+Enums/Affixes/Material.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.i
+.PHONY : Enums/Affixes/Material.cpp.i
+
+Enums/Affixes/Material.s: Enums/Affixes/Material.cpp.s
+
+.PHONY : Enums/Affixes/Material.s
+
+# target to generate assembly for a file
+Enums/Affixes/Material.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.s
+.PHONY : Enums/Affixes/Material.cpp.s
+
+Enums/Affixes/WeaponSuffix.obj: Enums/Affixes/WeaponSuffix.cpp.obj
+
+.PHONY : Enums/Affixes/WeaponSuffix.obj
+
+# target to build an object file
+Enums/Affixes/WeaponSuffix.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj
+.PHONY : Enums/Affixes/WeaponSuffix.cpp.obj
+
+Enums/Affixes/WeaponSuffix.i: Enums/Affixes/WeaponSuffix.cpp.i
+
+.PHONY : Enums/Affixes/WeaponSuffix.i
+
+# target to preprocess a source file
+Enums/Affixes/WeaponSuffix.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.i
+.PHONY : Enums/Affixes/WeaponSuffix.cpp.i
+
+Enums/Affixes/WeaponSuffix.s: Enums/Affixes/WeaponSuffix.cpp.s
+
+.PHONY : Enums/Affixes/WeaponSuffix.s
+
+# target to generate assembly for a file
+Enums/Affixes/WeaponSuffix.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.s
+.PHONY : Enums/Affixes/WeaponSuffix.cpp.s
+
+Enums/ArmorType.obj: Enums/ArmorType.cpp.obj
+
+.PHONY : Enums/ArmorType.obj
+
+# target to build an object file
+Enums/ArmorType.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj
+.PHONY : Enums/ArmorType.cpp.obj
+
+Enums/ArmorType.i: Enums/ArmorType.cpp.i
+
+.PHONY : Enums/ArmorType.i
+
+# target to preprocess a source file
+Enums/ArmorType.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.i
+.PHONY : Enums/ArmorType.cpp.i
+
+Enums/ArmorType.s: Enums/ArmorType.cpp.s
+
+.PHONY : Enums/ArmorType.s
+
+# target to generate assembly for a file
+Enums/ArmorType.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.s
+.PHONY : Enums/ArmorType.cpp.s
+
+Enums/DamageType.obj: Enums/DamageType.cpp.obj
+
+.PHONY : Enums/DamageType.obj
+
+# target to build an object file
+Enums/DamageType.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj
+.PHONY : Enums/DamageType.cpp.obj
+
+Enums/DamageType.i: Enums/DamageType.cpp.i
+
+.PHONY : Enums/DamageType.i
+
+# target to preprocess a source file
+Enums/DamageType.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.i
+.PHONY : Enums/DamageType.cpp.i
+
+Enums/DamageType.s: Enums/DamageType.cpp.s
+
+.PHONY : Enums/DamageType.s
+
+# target to generate assembly for a file
+Enums/DamageType.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.s
+.PHONY : Enums/DamageType.cpp.s
+
+Enums/ElementalType.obj: Enums/ElementalType.cpp.obj
+
+.PHONY : Enums/ElementalType.obj
+
+# target to build an object file
+Enums/ElementalType.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj
+.PHONY : Enums/ElementalType.cpp.obj
+
+Enums/ElementalType.i: Enums/ElementalType.cpp.i
+
+.PHONY : Enums/ElementalType.i
+
+# target to preprocess a source file
+Enums/ElementalType.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.i
+.PHONY : Enums/ElementalType.cpp.i
+
+Enums/ElementalType.s: Enums/ElementalType.cpp.s
+
+.PHONY : Enums/ElementalType.s
+
+# target to generate assembly for a file
+Enums/ElementalType.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.s
+.PHONY : Enums/ElementalType.cpp.s
+
+Enums/EntityStatName.obj: Enums/EntityStatName.cpp.obj
+
+.PHONY : Enums/EntityStatName.obj
+
+# target to build an object file
+Enums/EntityStatName.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj
+.PHONY : Enums/EntityStatName.cpp.obj
+
+Enums/EntityStatName.i: Enums/EntityStatName.cpp.i
+
+.PHONY : Enums/EntityStatName.i
+
+# target to preprocess a source file
+Enums/EntityStatName.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.i
+.PHONY : Enums/EntityStatName.cpp.i
+
+Enums/EntityStatName.s: Enums/EntityStatName.cpp.s
+
+.PHONY : Enums/EntityStatName.s
+
+# target to generate assembly for a file
+Enums/EntityStatName.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.s
+.PHONY : Enums/EntityStatName.cpp.s
+
+Enums/ProfessionName.obj: Enums/ProfessionName.cpp.obj
+
+.PHONY : Enums/ProfessionName.obj
+
+# target to build an object file
+Enums/ProfessionName.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj
+.PHONY : Enums/ProfessionName.cpp.obj
+
+Enums/ProfessionName.i: Enums/ProfessionName.cpp.i
+
+.PHONY : Enums/ProfessionName.i
+
+# target to preprocess a source file
+Enums/ProfessionName.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.i
+.PHONY : Enums/ProfessionName.cpp.i
+
+Enums/ProfessionName.s: Enums/ProfessionName.cpp.s
+
+.PHONY : Enums/ProfessionName.s
+
+# target to generate assembly for a file
+Enums/ProfessionName.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.s
+.PHONY : Enums/ProfessionName.cpp.s
+
+Enums/RaceName.obj: Enums/RaceName.cpp.obj
+
+.PHONY : Enums/RaceName.obj
+
+# target to build an object file
+Enums/RaceName.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj
+.PHONY : Enums/RaceName.cpp.obj
+
+Enums/RaceName.i: Enums/RaceName.cpp.i
+
+.PHONY : Enums/RaceName.i
+
+# target to preprocess a source file
+Enums/RaceName.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.i
+.PHONY : Enums/RaceName.cpp.i
+
+Enums/RaceName.s: Enums/RaceName.cpp.s
+
+.PHONY : Enums/RaceName.s
+
+# target to generate assembly for a file
+Enums/RaceName.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.s
+.PHONY : Enums/RaceName.cpp.s
+
+Enums/Shape.obj: Enums/Shape.cpp.obj
+
+.PHONY : Enums/Shape.obj
+
+# target to build an object file
+Enums/Shape.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj
+.PHONY : Enums/Shape.cpp.obj
+
+Enums/Shape.i: Enums/Shape.cpp.i
+
+.PHONY : Enums/Shape.i
+
+# target to preprocess a source file
+Enums/Shape.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Shape.cpp.i
+.PHONY : Enums/Shape.cpp.i
+
+Enums/Shape.s: Enums/Shape.cpp.s
+
+.PHONY : Enums/Shape.s
+
+# target to generate assembly for a file
+Enums/Shape.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Shape.cpp.s
+.PHONY : Enums/Shape.cpp.s
+
+Enums/WeaponType.obj: Enums/WeaponType.cpp.obj
+
+.PHONY : Enums/WeaponType.obj
+
+# target to build an object file
+Enums/WeaponType.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj
+.PHONY : Enums/WeaponType.cpp.obj
+
+Enums/WeaponType.i: Enums/WeaponType.cpp.i
+
+.PHONY : Enums/WeaponType.i
+
+# target to preprocess a source file
+Enums/WeaponType.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.i
+.PHONY : Enums/WeaponType.cpp.i
+
+Enums/WeaponType.s: Enums/WeaponType.cpp.s
+
+.PHONY : Enums/WeaponType.s
+
+# target to generate assembly for a file
+Enums/WeaponType.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.s
+.PHONY : Enums/WeaponType.cpp.s
+
+Enums/WornSlot.obj: Enums/WornSlot.cpp.obj
+
+.PHONY : Enums/WornSlot.obj
+
+# target to build an object file
+Enums/WornSlot.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj
+.PHONY : Enums/WornSlot.cpp.obj
+
+Enums/WornSlot.i: Enums/WornSlot.cpp.i
+
+.PHONY : Enums/WornSlot.i
+
+# target to preprocess a source file
+Enums/WornSlot.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.i
+.PHONY : Enums/WornSlot.cpp.i
+
+Enums/WornSlot.s: Enums/WornSlot.cpp.s
+
+.PHONY : Enums/WornSlot.s
+
+# target to generate assembly for a file
+Enums/WornSlot.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.s
+.PHONY : Enums/WornSlot.cpp.s
+
+HoldingSystems/Inventory.obj: HoldingSystems/Inventory.cpp.obj
+
+.PHONY : HoldingSystems/Inventory.obj
+
+# target to build an object file
+HoldingSystems/Inventory.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj
+.PHONY : HoldingSystems/Inventory.cpp.obj
+
+HoldingSystems/Inventory.i: HoldingSystems/Inventory.cpp.i
+
+.PHONY : HoldingSystems/Inventory.i
+
+# target to preprocess a source file
+HoldingSystems/Inventory.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.i
+.PHONY : HoldingSystems/Inventory.cpp.i
+
+HoldingSystems/Inventory.s: HoldingSystems/Inventory.cpp.s
+
+.PHONY : HoldingSystems/Inventory.s
+
+# target to generate assembly for a file
+HoldingSystems/Inventory.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.s
+.PHONY : HoldingSystems/Inventory.cpp.s
+
+HoldingSystems/WornGear.obj: HoldingSystems/WornGear.cpp.obj
+
+.PHONY : HoldingSystems/WornGear.obj
+
+# target to build an object file
+HoldingSystems/WornGear.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj
+.PHONY : HoldingSystems/WornGear.cpp.obj
+
+HoldingSystems/WornGear.i: HoldingSystems/WornGear.cpp.i
+
+.PHONY : HoldingSystems/WornGear.i
+
+# target to preprocess a source file
+HoldingSystems/WornGear.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.i
+.PHONY : HoldingSystems/WornGear.cpp.i
+
+HoldingSystems/WornGear.s: HoldingSystems/WornGear.cpp.s
+
+.PHONY : HoldingSystems/WornGear.s
+
+# target to generate assembly for a file
+HoldingSystems/WornGear.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.s
+.PHONY : HoldingSystems/WornGear.cpp.s
+
+Items/Consumables/Consumable.obj: Items/Consumables/Consumable.cpp.obj
+
+.PHONY : Items/Consumables/Consumable.obj
+
+# target to build an object file
+Items/Consumables/Consumable.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj
+.PHONY : Items/Consumables/Consumable.cpp.obj
+
+Items/Consumables/Consumable.i: Items/Consumables/Consumable.cpp.i
+
+.PHONY : Items/Consumables/Consumable.i
+
+# target to preprocess a source file
+Items/Consumables/Consumable.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.i
+.PHONY : Items/Consumables/Consumable.cpp.i
+
+Items/Consumables/Consumable.s: Items/Consumables/Consumable.cpp.s
+
+.PHONY : Items/Consumables/Consumable.s
+
+# target to generate assembly for a file
+Items/Consumables/Consumable.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.s
+.PHONY : Items/Consumables/Consumable.cpp.s
+
+Items/Consumables/Food.obj: Items/Consumables/Food.cpp.obj
+
+.PHONY : Items/Consumables/Food.obj
+
+# target to build an object file
+Items/Consumables/Food.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj
+.PHONY : Items/Consumables/Food.cpp.obj
+
+Items/Consumables/Food.i: Items/Consumables/Food.cpp.i
+
+.PHONY : Items/Consumables/Food.i
+
+# target to preprocess a source file
+Items/Consumables/Food.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.i
+.PHONY : Items/Consumables/Food.cpp.i
+
+Items/Consumables/Food.s: Items/Consumables/Food.cpp.s
+
+.PHONY : Items/Consumables/Food.s
+
+# target to generate assembly for a file
+Items/Consumables/Food.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.s
+.PHONY : Items/Consumables/Food.cpp.s
+
+Items/Consumables/Potion.obj: Items/Consumables/Potion.cpp.obj
+
+.PHONY : Items/Consumables/Potion.obj
+
+# target to build an object file
+Items/Consumables/Potion.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj
+.PHONY : Items/Consumables/Potion.cpp.obj
+
+Items/Consumables/Potion.i: Items/Consumables/Potion.cpp.i
+
+.PHONY : Items/Consumables/Potion.i
+
+# target to preprocess a source file
+Items/Consumables/Potion.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.i
+.PHONY : Items/Consumables/Potion.cpp.i
+
+Items/Consumables/Potion.s: Items/Consumables/Potion.cpp.s
+
+.PHONY : Items/Consumables/Potion.s
+
+# target to generate assembly for a file
+Items/Consumables/Potion.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.s
+.PHONY : Items/Consumables/Potion.cpp.s
+
+Items/Gear/Armor.obj: Items/Gear/Armor.cpp.obj
+
+.PHONY : Items/Gear/Armor.obj
+
+# target to build an object file
+Items/Gear/Armor.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj
+.PHONY : Items/Gear/Armor.cpp.obj
+
+Items/Gear/Armor.i: Items/Gear/Armor.cpp.i
+
+.PHONY : Items/Gear/Armor.i
+
+# target to preprocess a source file
+Items/Gear/Armor.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.i
+.PHONY : Items/Gear/Armor.cpp.i
+
+Items/Gear/Armor.s: Items/Gear/Armor.cpp.s
+
+.PHONY : Items/Gear/Armor.s
+
+# target to generate assembly for a file
+Items/Gear/Armor.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.s
+.PHONY : Items/Gear/Armor.cpp.s
+
+Items/Gear/CombatGear.obj: Items/Gear/CombatGear.cpp.obj
+
+.PHONY : Items/Gear/CombatGear.obj
+
+# target to build an object file
+Items/Gear/CombatGear.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj
+.PHONY : Items/Gear/CombatGear.cpp.obj
+
+Items/Gear/CombatGear.i: Items/Gear/CombatGear.cpp.i
+
+.PHONY : Items/Gear/CombatGear.i
+
+# target to preprocess a source file
+Items/Gear/CombatGear.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.i
+.PHONY : Items/Gear/CombatGear.cpp.i
+
+Items/Gear/CombatGear.s: Items/Gear/CombatGear.cpp.s
+
+.PHONY : Items/Gear/CombatGear.s
+
+# target to generate assembly for a file
+Items/Gear/CombatGear.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.s
+.PHONY : Items/Gear/CombatGear.cpp.s
+
+Items/Gear/Gear.obj: Items/Gear/Gear.cpp.obj
+
+.PHONY : Items/Gear/Gear.obj
+
+# target to build an object file
+Items/Gear/Gear.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj
+.PHONY : Items/Gear/Gear.cpp.obj
+
+Items/Gear/Gear.i: Items/Gear/Gear.cpp.i
+
+.PHONY : Items/Gear/Gear.i
+
+# target to preprocess a source file
+Items/Gear/Gear.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.i
+.PHONY : Items/Gear/Gear.cpp.i
+
+Items/Gear/Gear.s: Items/Gear/Gear.cpp.s
+
+.PHONY : Items/Gear/Gear.s
+
+# target to generate assembly for a file
+Items/Gear/Gear.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.s
+.PHONY : Items/Gear/Gear.cpp.s
+
+Items/Gear/Jewelry.obj: Items/Gear/Jewelry.cpp.obj
+
+.PHONY : Items/Gear/Jewelry.obj
+
+# target to build an object file
+Items/Gear/Jewelry.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj
+.PHONY : Items/Gear/Jewelry.cpp.obj
+
+Items/Gear/Jewelry.i: Items/Gear/Jewelry.cpp.i
+
+.PHONY : Items/Gear/Jewelry.i
+
+# target to preprocess a source file
+Items/Gear/Jewelry.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.i
+.PHONY : Items/Gear/Jewelry.cpp.i
+
+Items/Gear/Jewelry.s: Items/Gear/Jewelry.cpp.s
+
+.PHONY : Items/Gear/Jewelry.s
+
+# target to generate assembly for a file
+Items/Gear/Jewelry.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.s
+.PHONY : Items/Gear/Jewelry.cpp.s
+
+Items/Gear/Weapon.obj: Items/Gear/Weapon.cpp.obj
+
+.PHONY : Items/Gear/Weapon.obj
+
+# target to build an object file
+Items/Gear/Weapon.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj
+.PHONY : Items/Gear/Weapon.cpp.obj
+
+Items/Gear/Weapon.i: Items/Gear/Weapon.cpp.i
+
+.PHONY : Items/Gear/Weapon.i
+
+# target to preprocess a source file
+Items/Gear/Weapon.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.i
+.PHONY : Items/Gear/Weapon.cpp.i
+
+Items/Gear/Weapon.s: Items/Gear/Weapon.cpp.s
+
+.PHONY : Items/Gear/Weapon.s
+
+# target to generate assembly for a file
+Items/Gear/Weapon.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.s
+.PHONY : Items/Gear/Weapon.cpp.s
+
+Items/Item.obj: Items/Item.cpp.obj
+
+.PHONY : Items/Item.obj
+
+# target to build an object file
+Items/Item.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Item.cpp.obj
+.PHONY : Items/Item.cpp.obj
+
+Items/Item.i: Items/Item.cpp.i
+
+.PHONY : Items/Item.i
+
+# target to preprocess a source file
+Items/Item.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Item.cpp.i
+.PHONY : Items/Item.cpp.i
+
+Items/Item.s: Items/Item.cpp.s
+
+.PHONY : Items/Item.s
+
+# target to generate assembly for a file
+Items/Item.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Item.cpp.s
+.PHONY : Items/Item.cpp.s
+
+Professions/Barbarian.obj: Professions/Barbarian.cpp.obj
+
+.PHONY : Professions/Barbarian.obj
+
+# target to build an object file
+Professions/Barbarian.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj
+.PHONY : Professions/Barbarian.cpp.obj
+
+Professions/Barbarian.i: Professions/Barbarian.cpp.i
+
+.PHONY : Professions/Barbarian.i
+
+# target to preprocess a source file
+Professions/Barbarian.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.i
+.PHONY : Professions/Barbarian.cpp.i
+
+Professions/Barbarian.s: Professions/Barbarian.cpp.s
+
+.PHONY : Professions/Barbarian.s
+
+# target to generate assembly for a file
+Professions/Barbarian.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.s
+.PHONY : Professions/Barbarian.cpp.s
+
+Professions/Profession.obj: Professions/Profession.cpp.obj
+
+.PHONY : Professions/Profession.obj
+
+# target to build an object file
+Professions/Profession.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj
+.PHONY : Professions/Profession.cpp.obj
+
+Professions/Profession.i: Professions/Profession.cpp.i
+
+.PHONY : Professions/Profession.i
+
+# target to preprocess a source file
+Professions/Profession.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Professions/Profession.cpp.i
+.PHONY : Professions/Profession.cpp.i
+
+Professions/Profession.s: Professions/Profession.cpp.s
+
+.PHONY : Professions/Profession.s
+
+# target to generate assembly for a file
+Professions/Profession.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Professions/Profession.cpp.s
+.PHONY : Professions/Profession.cpp.s
+
+RPGObject.obj: RPGObject.cpp.obj
+
+.PHONY : RPGObject.obj
+
+# target to build an object file
+RPGObject.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/RPGObject.cpp.obj
+.PHONY : RPGObject.cpp.obj
+
+RPGObject.i: RPGObject.cpp.i
+
+.PHONY : RPGObject.i
+
+# target to preprocess a source file
+RPGObject.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/RPGObject.cpp.i
+.PHONY : RPGObject.cpp.i
+
+RPGObject.s: RPGObject.cpp.s
+
+.PHONY : RPGObject.s
+
+# target to generate assembly for a file
+RPGObject.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/RPGObject.cpp.s
+.PHONY : RPGObject.cpp.s
+
+Races/Race.obj: Races/Race.cpp.obj
+
+.PHONY : Races/Race.obj
+
+# target to build an object file
+Races/Race.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Races/Race.cpp.obj
+.PHONY : Races/Race.cpp.obj
+
+Races/Race.i: Races/Race.cpp.i
+
+.PHONY : Races/Race.i
+
+# target to preprocess a source file
+Races/Race.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Races/Race.cpp.i
+.PHONY : Races/Race.cpp.i
+
+Races/Race.s: Races/Race.cpp.s
+
+.PHONY : Races/Race.s
+
+# target to generate assembly for a file
+Races/Race.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Races/Race.cpp.s
+.PHONY : Races/Race.cpp.s
+
+Stats/ArmorStat.obj: Stats/ArmorStat.cpp.obj
+
+.PHONY : Stats/ArmorStat.obj
+
+# target to build an object file
+Stats/ArmorStat.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj
+.PHONY : Stats/ArmorStat.cpp.obj
+
+Stats/ArmorStat.i: Stats/ArmorStat.cpp.i
+
+.PHONY : Stats/ArmorStat.i
+
+# target to preprocess a source file
+Stats/ArmorStat.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.i
+.PHONY : Stats/ArmorStat.cpp.i
+
+Stats/ArmorStat.s: Stats/ArmorStat.cpp.s
+
+.PHONY : Stats/ArmorStat.s
+
+# target to generate assembly for a file
+Stats/ArmorStat.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.s
+.PHONY : Stats/ArmorStat.cpp.s
+
+Stats/EntityStats/DependentEntityStat.obj: Stats/EntityStats/DependentEntityStat.cpp.obj
+
+.PHONY : Stats/EntityStats/DependentEntityStat.obj
+
+# target to build an object file
+Stats/EntityStats/DependentEntityStat.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj
+.PHONY : Stats/EntityStats/DependentEntityStat.cpp.obj
+
+Stats/EntityStats/DependentEntityStat.i: Stats/EntityStats/DependentEntityStat.cpp.i
+
+.PHONY : Stats/EntityStats/DependentEntityStat.i
+
+# target to preprocess a source file
+Stats/EntityStats/DependentEntityStat.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.i
+.PHONY : Stats/EntityStats/DependentEntityStat.cpp.i
+
+Stats/EntityStats/DependentEntityStat.s: Stats/EntityStats/DependentEntityStat.cpp.s
+
+.PHONY : Stats/EntityStats/DependentEntityStat.s
+
+# target to generate assembly for a file
+Stats/EntityStats/DependentEntityStat.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.s
+.PHONY : Stats/EntityStats/DependentEntityStat.cpp.s
+
+Stats/EntityStats/DependentEntityStats/physicalDefense.obj: Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj
+
+.PHONY : Stats/EntityStats/DependentEntityStats/physicalDefense.obj
+
+# target to build an object file
+Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj
+.PHONY : Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj
+
+Stats/EntityStats/DependentEntityStats/physicalDefense.i: Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.i
+
+.PHONY : Stats/EntityStats/DependentEntityStats/physicalDefense.i
+
+# target to preprocess a source file
+Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.i
+.PHONY : Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.i
+
+Stats/EntityStats/DependentEntityStats/physicalDefense.s: Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.s
+
+.PHONY : Stats/EntityStats/DependentEntityStats/physicalDefense.s
+
+# target to generate assembly for a file
+Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.s
+.PHONY : Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.s
+
+Stats/EntityStats/EntityStat.obj: Stats/EntityStats/EntityStat.cpp.obj
+
+.PHONY : Stats/EntityStats/EntityStat.obj
+
+# target to build an object file
+Stats/EntityStats/EntityStat.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj
+.PHONY : Stats/EntityStats/EntityStat.cpp.obj
+
+Stats/EntityStats/EntityStat.i: Stats/EntityStats/EntityStat.cpp.i
+
+.PHONY : Stats/EntityStats/EntityStat.i
+
+# target to preprocess a source file
+Stats/EntityStats/EntityStat.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.i
+.PHONY : Stats/EntityStats/EntityStat.cpp.i
+
+Stats/EntityStats/EntityStat.s: Stats/EntityStats/EntityStat.cpp.s
+
+.PHONY : Stats/EntityStats/EntityStat.s
+
+# target to generate assembly for a file
+Stats/EntityStats/EntityStat.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.s
+.PHONY : Stats/EntityStats/EntityStat.cpp.s
+
+Stats/EntityStats/EntityStats.obj: Stats/EntityStats/EntityStats.cpp.obj
+
+.PHONY : Stats/EntityStats/EntityStats.obj
+
+# target to build an object file
+Stats/EntityStats/EntityStats.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj
+.PHONY : Stats/EntityStats/EntityStats.cpp.obj
+
+Stats/EntityStats/EntityStats.i: Stats/EntityStats/EntityStats.cpp.i
+
+.PHONY : Stats/EntityStats/EntityStats.i
+
+# target to preprocess a source file
+Stats/EntityStats/EntityStats.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.i
+.PHONY : Stats/EntityStats/EntityStats.cpp.i
+
+Stats/EntityStats/EntityStats.s: Stats/EntityStats/EntityStats.cpp.s
+
+.PHONY : Stats/EntityStats/EntityStats.s
+
+# target to generate assembly for a file
+Stats/EntityStats/EntityStats.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.s
+.PHONY : Stats/EntityStats/EntityStats.cpp.s
+
+Stats/ScalingCurve.obj: Stats/ScalingCurve.cpp.obj
+
+.PHONY : Stats/ScalingCurve.obj
+
+# target to build an object file
+Stats/ScalingCurve.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj
+.PHONY : Stats/ScalingCurve.cpp.obj
+
+Stats/ScalingCurve.i: Stats/ScalingCurve.cpp.i
+
+.PHONY : Stats/ScalingCurve.i
+
+# target to preprocess a source file
+Stats/ScalingCurve.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.i
+.PHONY : Stats/ScalingCurve.cpp.i
+
+Stats/ScalingCurve.s: Stats/ScalingCurve.cpp.s
+
+.PHONY : Stats/ScalingCurve.s
+
+# target to generate assembly for a file
+Stats/ScalingCurve.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.s
+.PHONY : Stats/ScalingCurve.cpp.s
+
+Targets/Area.obj: Targets/Area.cpp.obj
+
+.PHONY : Targets/Area.obj
+
+# target to build an object file
+Targets/Area.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj
+.PHONY : Targets/Area.cpp.obj
+
+Targets/Area.i: Targets/Area.cpp.i
+
+.PHONY : Targets/Area.i
+
+# target to preprocess a source file
+Targets/Area.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/Area.cpp.i
+.PHONY : Targets/Area.cpp.i
+
+Targets/Area.s: Targets/Area.cpp.s
+
+.PHONY : Targets/Area.s
+
+# target to generate assembly for a file
+Targets/Area.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/Area.cpp.s
+.PHONY : Targets/Area.cpp.s
+
+Targets/SingleTarget.obj: Targets/SingleTarget.cpp.obj
+
+.PHONY : Targets/SingleTarget.obj
+
+# target to build an object file
+Targets/SingleTarget.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj
+.PHONY : Targets/SingleTarget.cpp.obj
+
+Targets/SingleTarget.i: Targets/SingleTarget.cpp.i
+
+.PHONY : Targets/SingleTarget.i
+
+# target to preprocess a source file
+Targets/SingleTarget.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.i
+.PHONY : Targets/SingleTarget.cpp.i
+
+Targets/SingleTarget.s: Targets/SingleTarget.cpp.s
+
+.PHONY : Targets/SingleTarget.s
+
+# target to generate assembly for a file
+Targets/SingleTarget.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.s
+.PHONY : Targets/SingleTarget.cpp.s
+
+Targets/Target.obj: Targets/Target.cpp.obj
+
+.PHONY : Targets/Target.obj
+
+# target to build an object file
+Targets/Target.cpp.obj:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj
+.PHONY : Targets/Target.cpp.obj
+
+Targets/Target.i: Targets/Target.cpp.i
+
+.PHONY : Targets/Target.i
+
+# target to preprocess a source file
+Targets/Target.cpp.i:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/Target.cpp.i
+.PHONY : Targets/Target.cpp.i
+
+Targets/Target.s: Targets/Target.cpp.s
+
+.PHONY : Targets/Target.s
+
+# target to generate assembly for a file
+Targets/Target.cpp.s:
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/Target.cpp.s
+.PHONY : Targets/Target.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +1805,189 @@ help:
 	@echo ... FinalProject
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Abilities/Ability.obj
+	@echo ... Abilities/Ability.i
+	@echo ... Abilities/Ability.s
+	@echo ... Abilities/ActiveAbility.obj
+	@echo ... Abilities/ActiveAbility.i
+	@echo ... Abilities/ActiveAbility.s
+	@echo ... Abilities/PassiveAbility.obj
+	@echo ... Abilities/PassiveAbility.i
+	@echo ... Abilities/PassiveAbility.s
+	@echo ... Battle/Battle.obj
+	@echo ... Battle/Battle.i
+	@echo ... Battle/Battle.s
+	@echo ... Battle/TempUI.obj
+	@echo ... Battle/TempUI.i
+	@echo ... Battle/TempUI.s
+	@echo ... Effects/Blind.obj
+	@echo ... Effects/Blind.i
+	@echo ... Effects/Blind.s
+	@echo ... Effects/Buff.obj
+	@echo ... Effects/Buff.i
+	@echo ... Effects/Buff.s
+	@echo ... Effects/Creation.obj
+	@echo ... Effects/Creation.i
+	@echo ... Effects/Creation.s
+	@echo ... Effects/Damage.obj
+	@echo ... Effects/Damage.i
+	@echo ... Effects/Damage.s
+	@echo ... Effects/DamageOvertime.obj
+	@echo ... Effects/DamageOvertime.i
+	@echo ... Effects/DamageOvertime.s
+	@echo ... Effects/Heal.obj
+	@echo ... Effects/Heal.i
+	@echo ... Effects/Heal.s
+	@echo ... Effects/HealOvertime.obj
+	@echo ... Effects/HealOvertime.i
+	@echo ... Effects/HealOvertime.s
+	@echo ... Effects/Root.obj
+	@echo ... Effects/Root.i
+	@echo ... Effects/Root.s
+	@echo ... Effects/Silence.obj
+	@echo ... Effects/Silence.i
+	@echo ... Effects/Silence.s
+	@echo ... Effects/Slow.obj
+	@echo ... Effects/Slow.i
+	@echo ... Effects/Slow.s
+	@echo ... Effects/Stun.obj
+	@echo ... Effects/Stun.i
+	@echo ... Effects/Stun.s
+	@echo ... Effects/Taunt.obj
+	@echo ... Effects/Taunt.i
+	@echo ... Effects/Taunt.s
+	@echo ... Entities/Entity.obj
+	@echo ... Entities/Entity.i
+	@echo ... Entities/Entity.s
+	@echo ... Entities/LivingEntity.obj
+	@echo ... Entities/LivingEntity.i
+	@echo ... Entities/LivingEntity.s
+	@echo ... Entities/SubTypes/Monster.obj
+	@echo ... Entities/SubTypes/Monster.i
+	@echo ... Entities/SubTypes/Monster.s
+	@echo ... Entities/SubTypes/Player.obj
+	@echo ... Entities/SubTypes/Player.i
+	@echo ... Entities/SubTypes/Player.s
+	@echo ... Enums/AbilityRange.obj
+	@echo ... Enums/AbilityRange.i
+	@echo ... Enums/AbilityRange.s
+	@echo ... Enums/AbilityType.obj
+	@echo ... Enums/AbilityType.i
+	@echo ... Enums/AbilityType.s
+	@echo ... Enums/Affixes/ArmorSuffix.obj
+	@echo ... Enums/Affixes/ArmorSuffix.i
+	@echo ... Enums/Affixes/ArmorSuffix.s
+	@echo ... Enums/Affixes/JewelryGem.obj
+	@echo ... Enums/Affixes/JewelryGem.i
+	@echo ... Enums/Affixes/JewelryGem.s
+	@echo ... Enums/Affixes/JewelryMetal.obj
+	@echo ... Enums/Affixes/JewelryMetal.i
+	@echo ... Enums/Affixes/JewelryMetal.s
+	@echo ... Enums/Affixes/Material.obj
+	@echo ... Enums/Affixes/Material.i
+	@echo ... Enums/Affixes/Material.s
+	@echo ... Enums/Affixes/WeaponSuffix.obj
+	@echo ... Enums/Affixes/WeaponSuffix.i
+	@echo ... Enums/Affixes/WeaponSuffix.s
+	@echo ... Enums/ArmorType.obj
+	@echo ... Enums/ArmorType.i
+	@echo ... Enums/ArmorType.s
+	@echo ... Enums/DamageType.obj
+	@echo ... Enums/DamageType.i
+	@echo ... Enums/DamageType.s
+	@echo ... Enums/ElementalType.obj
+	@echo ... Enums/ElementalType.i
+	@echo ... Enums/ElementalType.s
+	@echo ... Enums/EntityStatName.obj
+	@echo ... Enums/EntityStatName.i
+	@echo ... Enums/EntityStatName.s
+	@echo ... Enums/ProfessionName.obj
+	@echo ... Enums/ProfessionName.i
+	@echo ... Enums/ProfessionName.s
+	@echo ... Enums/RaceName.obj
+	@echo ... Enums/RaceName.i
+	@echo ... Enums/RaceName.s
+	@echo ... Enums/Shape.obj
+	@echo ... Enums/Shape.i
+	@echo ... Enums/Shape.s
+	@echo ... Enums/WeaponType.obj
+	@echo ... Enums/WeaponType.i
+	@echo ... Enums/WeaponType.s
+	@echo ... Enums/WornSlot.obj
+	@echo ... Enums/WornSlot.i
+	@echo ... Enums/WornSlot.s
+	@echo ... HoldingSystems/Inventory.obj
+	@echo ... HoldingSystems/Inventory.i
+	@echo ... HoldingSystems/Inventory.s
+	@echo ... HoldingSystems/WornGear.obj
+	@echo ... HoldingSystems/WornGear.i
+	@echo ... HoldingSystems/WornGear.s
+	@echo ... Items/Consumables/Consumable.obj
+	@echo ... Items/Consumables/Consumable.i
+	@echo ... Items/Consumables/Consumable.s
+	@echo ... Items/Consumables/Food.obj
+	@echo ... Items/Consumables/Food.i
+	@echo ... Items/Consumables/Food.s
+	@echo ... Items/Consumables/Potion.obj
+	@echo ... Items/Consumables/Potion.i
+	@echo ... Items/Consumables/Potion.s
+	@echo ... Items/Gear/Armor.obj
+	@echo ... Items/Gear/Armor.i
+	@echo ... Items/Gear/Armor.s
+	@echo ... Items/Gear/CombatGear.obj
+	@echo ... Items/Gear/CombatGear.i
+	@echo ... Items/Gear/CombatGear.s
+	@echo ... Items/Gear/Gear.obj
+	@echo ... Items/Gear/Gear.i
+	@echo ... Items/Gear/Gear.s
+	@echo ... Items/Gear/Jewelry.obj
+	@echo ... Items/Gear/Jewelry.i
+	@echo ... Items/Gear/Jewelry.s
+	@echo ... Items/Gear/Weapon.obj
+	@echo ... Items/Gear/Weapon.i
+	@echo ... Items/Gear/Weapon.s
+	@echo ... Items/Item.obj
+	@echo ... Items/Item.i
+	@echo ... Items/Item.s
+	@echo ... Professions/Barbarian.obj
+	@echo ... Professions/Barbarian.i
+	@echo ... Professions/Barbarian.s
+	@echo ... Professions/Profession.obj
+	@echo ... Professions/Profession.i
+	@echo ... Professions/Profession.s
+	@echo ... RPGObject.obj
+	@echo ... RPGObject.i
+	@echo ... RPGObject.s
+	@echo ... Races/Race.obj
+	@echo ... Races/Race.i
+	@echo ... Races/Race.s
+	@echo ... Stats/ArmorStat.obj
+	@echo ... Stats/ArmorStat.i
+	@echo ... Stats/ArmorStat.s
+	@echo ... Stats/EntityStats/DependentEntityStat.obj
+	@echo ... Stats/EntityStats/DependentEntityStat.i
+	@echo ... Stats/EntityStats/DependentEntityStat.s
+	@echo ... Stats/EntityStats/DependentEntityStats/physicalDefense.obj
+	@echo ... Stats/EntityStats/DependentEntityStats/physicalDefense.i
+	@echo ... Stats/EntityStats/DependentEntityStats/physicalDefense.s
+	@echo ... Stats/EntityStats/EntityStat.obj
+	@echo ... Stats/EntityStats/EntityStat.i
+	@echo ... Stats/EntityStats/EntityStat.s
+	@echo ... Stats/EntityStats/EntityStats.obj
+	@echo ... Stats/EntityStats/EntityStats.i
+	@echo ... Stats/EntityStats/EntityStats.s
+	@echo ... Stats/ScalingCurve.obj
+	@echo ... Stats/ScalingCurve.i
+	@echo ... Stats/ScalingCurve.s
+	@echo ... Targets/Area.obj
+	@echo ... Targets/Area.i
+	@echo ... Targets/Area.s
+	@echo ... Targets/SingleTarget.obj
+	@echo ... Targets/SingleTarget.i
+	@echo ... Targets/SingleTarget.s
+	@echo ... Targets/Target.obj
+	@echo ... Targets/Target.i
+	@echo ... Targets/Target.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -82,6 +82,375 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Abilities/Ability.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Abilities/Ability.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Abilities/ActiveAbility.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Abilities/ActiveAbility.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Abilities/PassiveAbility.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Abilities/PassiveAbility.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Battle/Battle.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Battle/Battle.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Battle/TempUI.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Battle/TempUI.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Blind.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Blind.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Buff.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Buff.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Creation.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Creation.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Damage.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Damage.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/DamageOvertime.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/DamageOvertime.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Effect.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Heal.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Heal.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/HealOvertime.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/HealOvertime.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Root.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Root.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Silence.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Silence.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Slow.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Slow.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Stun.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Stun.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Taunt.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Effects/Taunt.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Entities/Entity.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Entities/Entity.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Entities/LivingEntity.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Entities/LivingEntity.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Entities/SubTypes/Monster.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Entities/SubTypes/Monster.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Entities/SubTypes/Player.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Entities/SubTypes/Player.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/AbilityRange.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/AbilityRange.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/AbilityType.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/AbilityType.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Affixes/ArmorSuffix.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Affixes/ArmorSuffix.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Affixes/JewelryGem.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Affixes/JewelryGem.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Affixes/JewelryMetal.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Affixes/JewelryMetal.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Affixes/Material.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Affixes/Material.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Affixes/WeaponSuffix.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Affixes/WeaponSuffix.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/ArmorType.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/ArmorType.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/DamageType.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/DamageType.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/ElementalType.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/ElementalType.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/EntityStatName.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/EntityStatName.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/ProfessionName.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/ProfessionName.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/RaceName.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/RaceName.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Shape.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/Shape.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/WeaponType.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/WeaponType.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/WornSlot.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Enums/WornSlot.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/HoldingSystems/Inventory.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/HoldingSystems/Inventory.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/HoldingSystems/WornGear.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/HoldingSystems/WornGear.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Consumables/Consumable.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Consumables/Consumable.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Consumables/Food.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Consumables/Food.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Consumables/Potion.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Consumables/Potion.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Gear/Armor.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Gear/Armor.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Gear/CombatGear.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Gear/CombatGear.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Gear/Gear.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Gear/Gear.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Gear/Jewelry.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Gear/Jewelry.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Gear/Weapon.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Gear/Weapon.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Item.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Items/Item.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Professions/Barbarian.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Professions/Barbarian.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Professions/Profession.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Professions/Profession.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/RPGObject.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/RPGObject.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Races/Race.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Races/Race.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/ArmorStat.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/ArmorStat.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/EntityStats/DependentEntityStat.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/EntityStats/DependentEntityStat.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/EntityStats/DependentEntityStats/physicalDefense.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/EntityStats/EntityStat.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/EntityStats/EntityStat.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/EntityStats/EntityStats.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/EntityStats/EntityStats.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/ScalingCurve.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Stats/ScalingCurve.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Targets/Area.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Targets/Area.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Targets/SingleTarget.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Targets/SingleTarget.h">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Targets/Target.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
+		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/Targets/Target.h">
+			<Option target="FinalProject"/>
+		</Unit>
 		<Unit filename="C:/Users/acurr/CLionProjects/FinalProject/main.cpp">
 			<Option target="FinalProject"/>
 		</Unit>

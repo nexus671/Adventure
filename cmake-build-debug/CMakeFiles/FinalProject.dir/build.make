@@ -80,19 +80,1605 @@ CMakeFiles/FinalProject.dir/main.cpp.obj.provides: CMakeFiles/FinalProject.dir/m
 CMakeFiles/FinalProject.dir/main.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/main.cpp.obj
 
 
+CMakeFiles/FinalProject.dir/RPGObject.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/RPGObject.cpp.obj: ../RPGObject.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FinalProject.dir/RPGObject.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\RPGObject.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\RPGObject.cpp
+
+CMakeFiles/FinalProject.dir/RPGObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/RPGObject.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\RPGObject.cpp > CMakeFiles\FinalProject.dir\RPGObject.cpp.i
+
+CMakeFiles/FinalProject.dir/RPGObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/RPGObject.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\RPGObject.cpp -o CMakeFiles\FinalProject.dir\RPGObject.cpp.s
+
+CMakeFiles/FinalProject.dir/RPGObject.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/RPGObject.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/RPGObject.cpp.obj.provides: CMakeFiles/FinalProject.dir/RPGObject.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/RPGObject.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/RPGObject.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/RPGObject.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/RPGObject.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj: ../HoldingSystems/Inventory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\HoldingSystems\Inventory.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\HoldingSystems\Inventory.cpp
+
+CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\HoldingSystems\Inventory.cpp > CMakeFiles\FinalProject.dir\HoldingSystems\Inventory.cpp.i
+
+CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\HoldingSystems\Inventory.cpp -o CMakeFiles\FinalProject.dir\HoldingSystems\Inventory.cpp.s
+
+CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj.provides: CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Items/Item.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Items/Item.cpp.obj: ../Items/Item.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/FinalProject.dir/Items/Item.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Items\Item.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Items\Item.cpp
+
+CMakeFiles/FinalProject.dir/Items/Item.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Items/Item.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Items\Item.cpp > CMakeFiles\FinalProject.dir\Items\Item.cpp.i
+
+CMakeFiles/FinalProject.dir/Items/Item.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Items/Item.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Items\Item.cpp -o CMakeFiles\FinalProject.dir\Items\Item.cpp.s
+
+CMakeFiles/FinalProject.dir/Items/Item.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Items/Item.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Items/Item.cpp.obj.provides: CMakeFiles/FinalProject.dir/Items/Item.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Item.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Items/Item.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Items/Item.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Items/Item.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj: ../HoldingSystems/WornGear.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\HoldingSystems\WornGear.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\HoldingSystems\WornGear.cpp
+
+CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\HoldingSystems\WornGear.cpp > CMakeFiles\FinalProject.dir\HoldingSystems\WornGear.cpp.i
+
+CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\HoldingSystems\WornGear.cpp -o CMakeFiles\FinalProject.dir\HoldingSystems\WornGear.cpp.s
+
+CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj.provides: CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj: ../Items/Gear/Gear.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Items\Gear\Gear.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Gear.cpp
+
+CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Gear.cpp > CMakeFiles\FinalProject.dir\Items\Gear\Gear.cpp.i
+
+CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Gear.cpp -o CMakeFiles\FinalProject.dir\Items\Gear\Gear.cpp.s
+
+CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj.provides: CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj: ../Effects/Buff.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\Buff.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\Buff.cpp
+
+CMakeFiles/FinalProject.dir/Effects/Buff.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/Buff.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\Buff.cpp > CMakeFiles\FinalProject.dir\Effects\Buff.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/Buff.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/Buff.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\Buff.cpp -o CMakeFiles\FinalProject.dir\Effects\Buff.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj: ../Stats/EntityStats/EntityStat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Stats\EntityStats\EntityStat.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\EntityStat.cpp
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\EntityStat.cpp > CMakeFiles\FinalProject.dir\Stats\EntityStats\EntityStat.cpp.i
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\EntityStat.cpp -o CMakeFiles\FinalProject.dir\Stats\EntityStats\EntityStat.cpp.s
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj.provides: CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj: ../Enums/WornSlot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\WornSlot.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\WornSlot.cpp
+
+CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\WornSlot.cpp > CMakeFiles\FinalProject.dir\Enums\WornSlot.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\WornSlot.cpp -o CMakeFiles\FinalProject.dir\Enums\WornSlot.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj: ../Enums/EntityStatName.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\EntityStatName.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\EntityStatName.cpp
+
+CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\EntityStatName.cpp > CMakeFiles\FinalProject.dir\Enums\EntityStatName.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\EntityStatName.cpp -o CMakeFiles\FinalProject.dir\Enums\EntityStatName.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj: ../Enums/Affixes/Material.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\Affixes\Material.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\Material.cpp
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\Material.cpp > CMakeFiles\FinalProject.dir\Enums\Affixes\Material.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\Material.cpp -o CMakeFiles\FinalProject.dir\Enums\Affixes\Material.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj: ../Stats/ScalingCurve.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Stats\ScalingCurve.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Stats\ScalingCurve.cpp
+
+CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Stats\ScalingCurve.cpp > CMakeFiles\FinalProject.dir\Stats\ScalingCurve.cpp.i
+
+CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Stats\ScalingCurve.cpp -o CMakeFiles\FinalProject.dir\Stats\ScalingCurve.cpp.s
+
+CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj.provides: CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj: ../Entities/Entity.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Entities\Entity.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Entities\Entity.cpp
+
+CMakeFiles/FinalProject.dir/Entities/Entity.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Entities/Entity.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Entities\Entity.cpp > CMakeFiles\FinalProject.dir\Entities\Entity.cpp.i
+
+CMakeFiles/FinalProject.dir/Entities/Entity.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Entities/Entity.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Entities\Entity.cpp -o CMakeFiles\FinalProject.dir\Entities\Entity.cpp.s
+
+CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj.provides: CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj: ../Enums/RaceName.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\RaceName.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\RaceName.cpp
+
+CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\RaceName.cpp > CMakeFiles\FinalProject.dir\Enums\RaceName.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\RaceName.cpp -o CMakeFiles\FinalProject.dir\Enums\RaceName.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj: ../Entities/LivingEntity.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Entities\LivingEntity.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Entities\LivingEntity.cpp
+
+CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Entities\LivingEntity.cpp > CMakeFiles\FinalProject.dir\Entities\LivingEntity.cpp.i
+
+CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Entities\LivingEntity.cpp -o CMakeFiles\FinalProject.dir\Entities\LivingEntity.cpp.s
+
+CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj.provides: CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj: ../Professions/Profession.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Professions\Profession.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Professions\Profession.cpp
+
+CMakeFiles/FinalProject.dir/Professions/Profession.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Professions/Profession.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Professions\Profession.cpp > CMakeFiles\FinalProject.dir\Professions\Profession.cpp.i
+
+CMakeFiles/FinalProject.dir/Professions/Profession.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Professions/Profession.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Professions\Profession.cpp -o CMakeFiles\FinalProject.dir\Professions\Profession.cpp.s
+
+CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj.provides: CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj: ../Enums/ProfessionName.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\ProfessionName.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\ProfessionName.cpp
+
+CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\ProfessionName.cpp > CMakeFiles\FinalProject.dir\Enums\ProfessionName.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\ProfessionName.cpp -o CMakeFiles\FinalProject.dir\Enums\ProfessionName.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj: ../Abilities/Ability.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Abilities\Ability.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Abilities\Ability.cpp
+
+CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Abilities\Ability.cpp > CMakeFiles\FinalProject.dir\Abilities\Ability.cpp.i
+
+CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Abilities\Ability.cpp -o CMakeFiles\FinalProject.dir\Abilities\Ability.cpp.s
+
+CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj.provides: CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj: ../Enums/AbilityRange.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\AbilityRange.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\AbilityRange.cpp
+
+CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\AbilityRange.cpp > CMakeFiles\FinalProject.dir\Enums\AbilityRange.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\AbilityRange.cpp -o CMakeFiles\FinalProject.dir\Enums\AbilityRange.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj: ../Enums/AbilityType.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\AbilityType.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\AbilityType.cpp
+
+CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\AbilityType.cpp > CMakeFiles\FinalProject.dir\Enums\AbilityType.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\AbilityType.cpp -o CMakeFiles\FinalProject.dir\Enums\AbilityType.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj: ../Enums/ArmorType.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\ArmorType.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\ArmorType.cpp
+
+CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\ArmorType.cpp > CMakeFiles\FinalProject.dir\Enums\ArmorType.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\ArmorType.cpp -o CMakeFiles\FinalProject.dir\Enums\ArmorType.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj: ../Enums/DamageType.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\DamageType.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\DamageType.cpp
+
+CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\DamageType.cpp > CMakeFiles\FinalProject.dir\Enums\DamageType.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\DamageType.cpp -o CMakeFiles\FinalProject.dir\Enums\DamageType.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj: ../Enums/ElementalType.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\ElementalType.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\ElementalType.cpp
+
+CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\ElementalType.cpp > CMakeFiles\FinalProject.dir\Enums\ElementalType.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\ElementalType.cpp -o CMakeFiles\FinalProject.dir\Enums\ElementalType.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj: ../Enums/WeaponType.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\WeaponType.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\WeaponType.cpp
+
+CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\WeaponType.cpp > CMakeFiles\FinalProject.dir\Enums\WeaponType.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\WeaponType.cpp -o CMakeFiles\FinalProject.dir\Enums\WeaponType.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj: ../Enums/Affixes/WeaponSuffix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\Affixes\WeaponSuffix.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\WeaponSuffix.cpp
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\WeaponSuffix.cpp > CMakeFiles\FinalProject.dir\Enums\Affixes\WeaponSuffix.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\WeaponSuffix.cpp -o CMakeFiles\FinalProject.dir\Enums\Affixes\WeaponSuffix.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj: ../Enums/Affixes/JewelryMetal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\Affixes\JewelryMetal.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\JewelryMetal.cpp
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\JewelryMetal.cpp > CMakeFiles\FinalProject.dir\Enums\Affixes\JewelryMetal.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\JewelryMetal.cpp -o CMakeFiles\FinalProject.dir\Enums\Affixes\JewelryMetal.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj: ../Enums/Affixes/JewelryGem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\Affixes\JewelryGem.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\JewelryGem.cpp
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\JewelryGem.cpp > CMakeFiles\FinalProject.dir\Enums\Affixes\JewelryGem.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\JewelryGem.cpp -o CMakeFiles\FinalProject.dir\Enums\Affixes\JewelryGem.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj: ../Enums/Affixes/ArmorSuffix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\Affixes\ArmorSuffix.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\ArmorSuffix.cpp
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\ArmorSuffix.cpp > CMakeFiles\FinalProject.dir\Enums\Affixes\ArmorSuffix.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\Affixes\ArmorSuffix.cpp -o CMakeFiles\FinalProject.dir\Enums\Affixes\ArmorSuffix.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj: ../Abilities/ActiveAbility.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Abilities\ActiveAbility.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Abilities\ActiveAbility.cpp
+
+CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Abilities\ActiveAbility.cpp > CMakeFiles\FinalProject.dir\Abilities\ActiveAbility.cpp.i
+
+CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Abilities\ActiveAbility.cpp -o CMakeFiles\FinalProject.dir\Abilities\ActiveAbility.cpp.s
+
+CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj.provides: CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj: ../Abilities/PassiveAbility.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Abilities\PassiveAbility.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Abilities\PassiveAbility.cpp
+
+CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Abilities\PassiveAbility.cpp > CMakeFiles\FinalProject.dir\Abilities\PassiveAbility.cpp.i
+
+CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Abilities\PassiveAbility.cpp -o CMakeFiles\FinalProject.dir\Abilities\PassiveAbility.cpp.s
+
+CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj.provides: CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj: ../Battle/Battle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Battle\Battle.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Battle\Battle.cpp
+
+CMakeFiles/FinalProject.dir/Battle/Battle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Battle/Battle.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Battle\Battle.cpp > CMakeFiles\FinalProject.dir\Battle\Battle.cpp.i
+
+CMakeFiles/FinalProject.dir/Battle/Battle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Battle/Battle.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Battle\Battle.cpp -o CMakeFiles\FinalProject.dir\Battle\Battle.cpp.s
+
+CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj.provides: CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj: ../Battle/TempUI.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Battle\TempUI.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Battle\TempUI.cpp
+
+CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Battle\TempUI.cpp > CMakeFiles\FinalProject.dir\Battle\TempUI.cpp.i
+
+CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Battle\TempUI.cpp -o CMakeFiles\FinalProject.dir\Battle\TempUI.cpp.s
+
+CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj.provides: CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj: ../Effects/Blind.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\Blind.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\Blind.cpp
+
+CMakeFiles/FinalProject.dir/Effects/Blind.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/Blind.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\Blind.cpp > CMakeFiles\FinalProject.dir\Effects\Blind.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/Blind.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/Blind.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\Blind.cpp -o CMakeFiles\FinalProject.dir\Effects\Blind.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj: ../Effects/Creation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\Creation.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\Creation.cpp
+
+CMakeFiles/FinalProject.dir/Effects/Creation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/Creation.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\Creation.cpp > CMakeFiles\FinalProject.dir\Effects\Creation.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/Creation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/Creation.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\Creation.cpp -o CMakeFiles\FinalProject.dir\Effects\Creation.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj: ../Effects/Damage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\Damage.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\Damage.cpp
+
+CMakeFiles/FinalProject.dir/Effects/Damage.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/Damage.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\Damage.cpp > CMakeFiles\FinalProject.dir\Effects\Damage.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/Damage.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/Damage.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\Damage.cpp -o CMakeFiles\FinalProject.dir\Effects\Damage.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj: ../Effects/DamageOvertime.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\DamageOvertime.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\DamageOvertime.cpp
+
+CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\DamageOvertime.cpp > CMakeFiles\FinalProject.dir\Effects\DamageOvertime.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\DamageOvertime.cpp -o CMakeFiles\FinalProject.dir\Effects\DamageOvertime.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj: ../Effects/Heal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\Heal.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\Heal.cpp
+
+CMakeFiles/FinalProject.dir/Effects/Heal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/Heal.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\Heal.cpp > CMakeFiles\FinalProject.dir\Effects\Heal.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/Heal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/Heal.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\Heal.cpp -o CMakeFiles\FinalProject.dir\Effects\Heal.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj: ../Effects/HealOvertime.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\HealOvertime.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\HealOvertime.cpp
+
+CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\HealOvertime.cpp > CMakeFiles\FinalProject.dir\Effects\HealOvertime.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\HealOvertime.cpp -o CMakeFiles\FinalProject.dir\Effects\HealOvertime.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj: ../Effects/Root.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\Root.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\Root.cpp
+
+CMakeFiles/FinalProject.dir/Effects/Root.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/Root.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\Root.cpp > CMakeFiles\FinalProject.dir\Effects\Root.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/Root.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/Root.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\Root.cpp -o CMakeFiles\FinalProject.dir\Effects\Root.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj: ../Effects/Silence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\Silence.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\Silence.cpp
+
+CMakeFiles/FinalProject.dir/Effects/Silence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/Silence.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\Silence.cpp > CMakeFiles\FinalProject.dir\Effects\Silence.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/Silence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/Silence.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\Silence.cpp -o CMakeFiles\FinalProject.dir\Effects\Silence.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj: ../Effects/Stun.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\Stun.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\Stun.cpp
+
+CMakeFiles/FinalProject.dir/Effects/Stun.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/Stun.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\Stun.cpp > CMakeFiles\FinalProject.dir\Effects\Stun.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/Stun.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/Stun.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\Stun.cpp -o CMakeFiles\FinalProject.dir\Effects\Stun.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj: ../Effects/Taunt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\Taunt.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\Taunt.cpp
+
+CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\Taunt.cpp > CMakeFiles\FinalProject.dir\Effects\Taunt.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\Taunt.cpp -o CMakeFiles\FinalProject.dir\Effects\Taunt.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj: ../Effects/Slow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Effects\Slow.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Effects\Slow.cpp
+
+CMakeFiles/FinalProject.dir/Effects/Slow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Effects/Slow.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Effects\Slow.cpp > CMakeFiles\FinalProject.dir\Effects\Slow.cpp.i
+
+CMakeFiles/FinalProject.dir/Effects/Slow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Effects/Slow.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Effects\Slow.cpp -o CMakeFiles\FinalProject.dir\Effects\Slow.cpp.s
+
+CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj.provides: CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj: ../Entities/SubTypes/Monster.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Entities\SubTypes\Monster.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Entities\SubTypes\Monster.cpp
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Entities\SubTypes\Monster.cpp > CMakeFiles\FinalProject.dir\Entities\SubTypes\Monster.cpp.i
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Entities\SubTypes\Monster.cpp -o CMakeFiles\FinalProject.dir\Entities\SubTypes\Monster.cpp.s
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj.provides: CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj: ../Entities/SubTypes/Player.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Entities\SubTypes\Player.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Entities\SubTypes\Player.cpp
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Entities\SubTypes\Player.cpp > CMakeFiles\FinalProject.dir\Entities\SubTypes\Player.cpp.i
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Entities\SubTypes\Player.cpp -o CMakeFiles\FinalProject.dir\Entities\SubTypes\Player.cpp.s
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj.provides: CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj: ../Professions/Barbarian.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Professions\Barbarian.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Professions\Barbarian.cpp
+
+CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Professions\Barbarian.cpp > CMakeFiles\FinalProject.dir\Professions\Barbarian.cpp.i
+
+CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Professions\Barbarian.cpp -o CMakeFiles\FinalProject.dir\Professions\Barbarian.cpp.s
+
+CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj.provides: CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Races/Race.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Races/Race.cpp.obj: ../Races/Race.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/FinalProject.dir/Races/Race.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Races\Race.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Races\Race.cpp
+
+CMakeFiles/FinalProject.dir/Races/Race.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Races/Race.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Races\Race.cpp > CMakeFiles\FinalProject.dir\Races\Race.cpp.i
+
+CMakeFiles/FinalProject.dir/Races/Race.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Races/Race.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Races\Race.cpp -o CMakeFiles\FinalProject.dir\Races\Race.cpp.s
+
+CMakeFiles/FinalProject.dir/Races/Race.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Races/Race.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Races/Race.cpp.obj.provides: CMakeFiles/FinalProject.dir/Races/Race.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Races/Race.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Races/Race.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Races/Race.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Races/Race.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj: ../Targets/Target.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Targets\Target.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Targets\Target.cpp
+
+CMakeFiles/FinalProject.dir/Targets/Target.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Targets/Target.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Targets\Target.cpp > CMakeFiles\FinalProject.dir\Targets\Target.cpp.i
+
+CMakeFiles/FinalProject.dir/Targets/Target.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Targets/Target.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Targets\Target.cpp -o CMakeFiles\FinalProject.dir\Targets\Target.cpp.s
+
+CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj.provides: CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj: ../Targets/SingleTarget.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Targets\SingleTarget.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Targets\SingleTarget.cpp
+
+CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Targets\SingleTarget.cpp > CMakeFiles\FinalProject.dir\Targets\SingleTarget.cpp.i
+
+CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Targets\SingleTarget.cpp -o CMakeFiles\FinalProject.dir\Targets\SingleTarget.cpp.s
+
+CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj.provides: CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj: ../Targets/Area.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Targets\Area.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Targets\Area.cpp
+
+CMakeFiles/FinalProject.dir/Targets/Area.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Targets/Area.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Targets\Area.cpp > CMakeFiles\FinalProject.dir\Targets\Area.cpp.i
+
+CMakeFiles/FinalProject.dir/Targets/Area.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Targets/Area.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Targets\Area.cpp -o CMakeFiles\FinalProject.dir\Targets\Area.cpp.s
+
+CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj.provides: CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj: ../Enums/Shape.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Enums\Shape.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Enums\Shape.cpp
+
+CMakeFiles/FinalProject.dir/Enums/Shape.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Enums/Shape.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Enums\Shape.cpp > CMakeFiles\FinalProject.dir\Enums\Shape.cpp.i
+
+CMakeFiles/FinalProject.dir/Enums/Shape.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Enums/Shape.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Enums\Shape.cpp -o CMakeFiles\FinalProject.dir\Enums\Shape.cpp.s
+
+CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj.provides: CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj: ../Items/Gear/CombatGear.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Items\Gear\CombatGear.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\CombatGear.cpp
+
+CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\CombatGear.cpp > CMakeFiles\FinalProject.dir\Items\Gear\CombatGear.cpp.i
+
+CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\CombatGear.cpp -o CMakeFiles\FinalProject.dir\Items\Gear\CombatGear.cpp.s
+
+CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj.provides: CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj: ../Items/Gear/Weapon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Items\Gear\Weapon.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Weapon.cpp
+
+CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Weapon.cpp > CMakeFiles\FinalProject.dir\Items\Gear\Weapon.cpp.i
+
+CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Weapon.cpp -o CMakeFiles\FinalProject.dir\Items\Gear\Weapon.cpp.s
+
+CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj.provides: CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj: ../Items/Gear/Armor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Items\Gear\Armor.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Armor.cpp
+
+CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Armor.cpp > CMakeFiles\FinalProject.dir\Items\Gear\Armor.cpp.i
+
+CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Armor.cpp -o CMakeFiles\FinalProject.dir\Items\Gear\Armor.cpp.s
+
+CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj.provides: CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj: ../Items/Gear/Jewelry.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Items\Gear\Jewelry.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Jewelry.cpp
+
+CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Jewelry.cpp > CMakeFiles\FinalProject.dir\Items\Gear\Jewelry.cpp.i
+
+CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Items\Gear\Jewelry.cpp -o CMakeFiles\FinalProject.dir\Items\Gear\Jewelry.cpp.s
+
+CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj.provides: CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj: ../Items/Consumables/Consumable.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Items\Consumables\Consumable.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Items\Consumables\Consumable.cpp
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Items\Consumables\Consumable.cpp > CMakeFiles\FinalProject.dir\Items\Consumables\Consumable.cpp.i
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Items\Consumables\Consumable.cpp -o CMakeFiles\FinalProject.dir\Items\Consumables\Consumable.cpp.s
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj.provides: CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj: ../Items/Consumables/Food.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Items\Consumables\Food.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Items\Consumables\Food.cpp
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Items\Consumables\Food.cpp > CMakeFiles\FinalProject.dir\Items\Consumables\Food.cpp.i
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Items\Consumables\Food.cpp -o CMakeFiles\FinalProject.dir\Items\Consumables\Food.cpp.s
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj.provides: CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj: ../Items/Consumables/Potion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Items\Consumables\Potion.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Items\Consumables\Potion.cpp
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Items\Consumables\Potion.cpp > CMakeFiles\FinalProject.dir\Items\Consumables\Potion.cpp.i
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Items\Consumables\Potion.cpp -o CMakeFiles\FinalProject.dir\Items\Consumables\Potion.cpp.s
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj.provides: CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj: ../Stats/EntityStats/EntityStats.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Stats\EntityStats\EntityStats.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\EntityStats.cpp
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\EntityStats.cpp > CMakeFiles\FinalProject.dir\Stats\EntityStats\EntityStats.cpp.i
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\EntityStats.cpp -o CMakeFiles\FinalProject.dir\Stats\EntityStats\EntityStats.cpp.s
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj.provides: CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj: ../Stats/EntityStats/DependentEntityStat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Stats\EntityStats\DependentEntityStat.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\DependentEntityStat.cpp
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\DependentEntityStat.cpp > CMakeFiles\FinalProject.dir\Stats\EntityStats\DependentEntityStat.cpp.i
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\DependentEntityStat.cpp -o CMakeFiles\FinalProject.dir\Stats\EntityStats\DependentEntityStat.cpp.s
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj.provides: CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj: ../Stats/EntityStats/DependentEntityStats/physicalDefense.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Stats\EntityStats\DependentEntityStats\physicalDefense.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\DependentEntityStats\physicalDefense.cpp
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\DependentEntityStats\physicalDefense.cpp > CMakeFiles\FinalProject.dir\Stats\EntityStats\DependentEntityStats\physicalDefense.cpp.i
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Stats\EntityStats\DependentEntityStats\physicalDefense.cpp -o CMakeFiles\FinalProject.dir\Stats\EntityStats\DependentEntityStats\physicalDefense.cpp.s
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj.provides: CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj
+
+
+CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj: CMakeFiles/FinalProject.dir/flags.make
+CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj: ../Stats/ArmorStat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\FinalProject.dir\Stats\ArmorStat.cpp.obj -c C:\Users\acurr\CLionProjects\FinalProject\Stats\ArmorStat.cpp
+
+CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\acurr\CLionProjects\FinalProject\Stats\ArmorStat.cpp > CMakeFiles\FinalProject.dir\Stats\ArmorStat.cpp.i
+
+CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\acurr\CLionProjects\FinalProject\Stats\ArmorStat.cpp -o CMakeFiles\FinalProject.dir\Stats\ArmorStat.cpp.s
+
+CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj.requires:
+
+.PHONY : CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj.requires
+
+CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj.provides: CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\FinalProject.dir\build.make CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj.provides.build
+.PHONY : CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj.provides
+
+CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj.provides.build: CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj
+
+
 # Object files for target FinalProject
 FinalProject_OBJECTS = \
-"CMakeFiles/FinalProject.dir/main.cpp.obj"
+"CMakeFiles/FinalProject.dir/main.cpp.obj" \
+"CMakeFiles/FinalProject.dir/RPGObject.cpp.obj" \
+"CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Items/Item.cpp.obj" \
+"CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Races/Race.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj" \
+"CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj"
 
 # External object files for target FinalProject
 FinalProject_EXTERNAL_OBJECTS =
 
 FinalProject.exe: CMakeFiles/FinalProject.dir/main.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/RPGObject.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Items/Item.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Races/Race.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj
+FinalProject.exe: CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj
 FinalProject.exe: CMakeFiles/FinalProject.dir/build.make
 FinalProject.exe: CMakeFiles/FinalProject.dir/linklibs.rsp
 FinalProject.exe: CMakeFiles/FinalProject.dir/objects1.rsp
 FinalProject.exe: CMakeFiles/FinalProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable FinalProject.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\acurr\CLionProjects\FinalProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Linking CXX executable FinalProject.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\FinalProject.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -101,6 +1687,67 @@ CMakeFiles/FinalProject.dir/build: FinalProject.exe
 .PHONY : CMakeFiles/FinalProject.dir/build
 
 CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/main.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/RPGObject.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/HoldingSystems/Inventory.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Items/Item.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/HoldingSystems/WornGear.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Items/Gear/Gear.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/Buff.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStat.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/WornSlot.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/EntityStatName.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/Affixes/Material.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Stats/ScalingCurve.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Entities/Entity.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/RaceName.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Entities/LivingEntity.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Professions/Profession.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/ProfessionName.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Abilities/Ability.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/AbilityRange.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/AbilityType.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/ArmorType.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/DamageType.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/ElementalType.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/WeaponType.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/Affixes/WeaponSuffix.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryMetal.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/Affixes/JewelryGem.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/Affixes/ArmorSuffix.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Abilities/ActiveAbility.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Abilities/PassiveAbility.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Battle/Battle.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Battle/TempUI.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/Blind.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/Creation.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/Damage.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/DamageOvertime.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/Heal.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/HealOvertime.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/Root.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/Silence.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/Stun.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/Taunt.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Effects/Slow.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Entities/SubTypes/Monster.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Entities/SubTypes/Player.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Professions/Barbarian.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Races/Race.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Targets/Target.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Targets/SingleTarget.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Targets/Area.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Enums/Shape.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Items/Gear/CombatGear.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Items/Gear/Weapon.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Items/Gear/Armor.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Items/Gear/Jewelry.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Items/Consumables/Consumable.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Items/Consumables/Food.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Items/Consumables/Potion.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Stats/EntityStats/EntityStats.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStat.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Stats/EntityStats/DependentEntityStats/physicalDefense.cpp.obj.requires
+CMakeFiles/FinalProject.dir/requires: CMakeFiles/FinalProject.dir/Stats/ArmorStat.cpp.obj.requires
 
 .PHONY : CMakeFiles/FinalProject.dir/requires
 
